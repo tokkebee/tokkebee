@@ -3,8 +3,10 @@ I'm interested in the Game Design industry in all aspects:
   - Coding
   - Design
   - Art
+
 But I'm currently interested in being a Technical Artist,
   someone who creates tools to automate some parts of the artistic process.
+
 So far, I know all sorts of art and basic code,
   but I'm currently learning C# and Maya.
 
