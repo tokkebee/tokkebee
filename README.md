@@ -10,8 +10,8 @@ But I'm currently interested in being a Technical Artist,
 So far, I know all sorts of art and basic code,
   but I'm currently learning C# and Maya.
 
-<!--Check out my LinkedIn, ArtStation, and itch.io through my Linktree!
-(put link here)
+Check out my LinkedIn, ArtStation, and itch.io through my Linktree!
+[(put link here)](https://linktr.ee/tokkebee)
 
 <!---
 tokkebee/tokkebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
